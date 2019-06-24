@@ -67,8 +67,7 @@
     public file format for the interchange of 3-dimensional point cloud
     data. The LAS format is defined by the American Society for 
     Photogrammetry and Remote Sensing (ASPRS). Please refer to their 
-    webpage for more information http://www.asprs.org/Committee-General
-    .../LASer-LAS-File-Format-Exchange-Activities.html. 
+    webpage for more information http://www.asprs.org/Committee-General/LASer-LAS-File-Format-Exchange-Activities.html. 
     All data parsed through this script as well as the demonstration
     dataset use LAS 1.4. Compatibility with other versions of LAS
     cannot be guaranteed. The LAS reader and affiliated files
