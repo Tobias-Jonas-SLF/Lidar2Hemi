@@ -2,6 +2,7 @@
   Creating synthetic hemispherical images from LiDAR point cloud data
 
 % DESCRIPTION
+
   This Matlab scripts creates synthethic hemispherical images from 
   high-resolution LiDAR point cloud data of forest canopy. The script
   relates to research published as
@@ -22,11 +23,13 @@
   different point densities may require other methodology.
 
 % SETUP REQUIRED TO RUN THIS SCRIPT
+
   Matlab base version 7.0 or higher. As far as we are aware of no 
   additional toolbox is needed. Add parent folder Lidar2HP
   to the Matlab path, or run script from the very folder.
 
 % IMPLEMENTATION
+
   by Tobias Jonas with input from David Moeser*, Clare Webster*,  
   Gulia Mazzotti*, Johanna Malle*, and Felix Morsdorf**
   *  WSL Institute for Snow and Avalanche Research SLF
@@ -35,6 +38,7 @@
      Zurich, Switzerland 
   
 % VERSION / LAST CHANGES
+
   v2.6 / 2019-06-24 / by TJ
   
 % DATA REQUIREMENTS
@@ -84,15 +88,18 @@
     in the SwissGrid coordinate syste CH1903/LV03.
     
 % OUTPUT
+
   this script will generate a synthethic hemispherical image per
   coordinate. The images are saved according to type/format/color
   settings specified in the user settings below. 
   
 % USAGE
+
   adapt user settings as necessary
   run Lidar2HP from the command line of Matlab
   
 % ADVISE
+
   this script uses screenshots to save images, be advised to not 
   interfere with the computer (run other applications, use the mouse, 
   click to other windows, etc.) while excecuting this script, even
