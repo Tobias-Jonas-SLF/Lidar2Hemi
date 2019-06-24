@@ -108,7 +108,7 @@
   
 % USAGE
 
-  adapt user settings as necessary
+  adapt user settings as necessary, 
   run Lidar2Hemi from the command line of Matlab
   
 % ADVISE
