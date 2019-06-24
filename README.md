@@ -25,18 +25,29 @@
 % SETUP REQUIRED TO RUN THIS SCRIPT
 
   Matlab base version 7.0 or higher. As far as we are aware of no 
-  additional toolbox is needed. Add parent folder Lidar2HP
+  additional toolbox is needed. Add parent folder Lidar2Hemi
   to the Matlab path, or run script from the very folder.
+  
+% GETTING STARTED
+
+  1) copy entire folder/file system to a local directory 'Lidar2Hemi'
+  2) open Lidar2Hemi.m in your Matlab editor, specify the full path 
+     of your local directory as the base folder in line 98, then save
+     Lidar2Hemi.m
+  3) set Matlab path to include the base folder and all subfolders
+  4) unzip demo las files within folder DSM_Data, adding the two
+     files 'dsm_laret_low.las' and 'ndsm_laret_low.las'
+  5) run Lidar2Hemi from the command line 
 
 % IMPLEMENTATION
 
   by Tobias Jonas with input from David Moeser*, Clare Webster*,  
   Gulia Mazzotti*, Johanna Malle*, and Felix Morsdorf**
   
-  *WSL Institute for Snow and Avalanche Research SLF
+  *  WSL Institute for Snow and Avalanche Research SLF
      Davos, Switzerland
      
-  **University of Zurich, Department of Geography
+  ** University of Zurich, Department of Geography
      Zurich, Switzerland 
   
 % VERSION / LAST CHANGES
@@ -98,7 +109,7 @@
 % USAGE
 
   adapt user settings as necessary
-  run Lidar2HP from the command line of Matlab
+  run Lidar2Hemi from the command line of Matlab
   
 % ADVISE
 
