@@ -44,11 +44,11 @@
   by Tobias Jonas with input from David Moeser*, Clare Webster*,  
   Gulia Mazzotti*, Johanna Malle*, and Felix Morsdorf**
   
-  *  WSL Institute for Snow and Avalanche Research SLF
-     Davos, Switzerland
+  * WSL Institute for Snow and Avalanche Research SLF
+    Davos, Switzerland
      
-  ** University of Zurich, Department of Geography
-     Zurich, Switzerland 
+  **University of Zurich, Department of Geography
+    Zurich, Switzerland 
   
 % VERSION / LAST CHANGES
 
